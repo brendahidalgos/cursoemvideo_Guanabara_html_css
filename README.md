@@ -26,3 +26,6 @@ Revisar e consolidar conhecimentos básicos de desenvolvimento web, preparando p
 ## 📁 Estrutura do repositório
 
 Organizado por aulas e módulos, seguindo a sequência proposta no curso.
+
+## ✍️ Autor
+@brendahidalgos - Aluno do curso de Análise e Desenvolvimento de Sistemas.
