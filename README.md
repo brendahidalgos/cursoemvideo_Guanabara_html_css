@@ -45,4 +45,4 @@ Se tiver alguma dúvida ou sugestão, pode me chamar!
 
 ## ✍️ Autor
 
-* **@brendahidalgos** - Aluna do curso Curso em Vídeo - HTML e CSS.
+* **@brendahidalgos** - Aluna do Curso em Vídeo - HTML e CSS.
