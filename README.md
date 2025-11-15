@@ -32,6 +32,21 @@ Revisar e consolidar conhecimentos básicos de **desenvolvimento web**, servindo
 
 O repositório está organizado por aulas e módulos, seguindo a sequência proposta no curso para facilitar a navegação e o acompanhamento do progresso.
 
+## 🚀 Como Executar os Projetos
+
+Como este é um projeto de desenvolvimento web baseado apenas em HTML e CSS, a execução é muito simples.
+
+1.  **Clone o Repositório:**
+    ```bash
+    git clone [https://github.com/brendahidalgos/NomeDoRepositorio.git](https://github.com/brendahidalgos/NomeDoRepositorio.git)
+    ```
+2.  **Navegue até a pasta do Projeto/Exercício:**
+    ```bash
+    cd NomeDoRepositorio/NomeDaPastaDoExercicio/
+    ```
+3.  **Abra o Arquivo no Navegador:**
+    * Localize o arquivo `index.html` (ou o arquivo HTML principal da atividade) na pasta.
+    * Clique duas vezes no arquivo, ou clique com o botão direito e selecione a opção "Abrir com..." e escolha seu navegador (Chrome, Firefox, Edge, etc.).
 ---
 ## 👩‍💻 Desenvolvido em
 
